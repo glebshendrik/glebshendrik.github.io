@@ -1,13 +1,13 @@
 # Site settings
 title: Gleb Shendrik
-description: Software Developer
+description: Software Engineer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Gleb Shendrik
-user_description: Software Developer
-user_title: Software Developer
+user_description: Software Engineer
+user_title: Software Engineer
 email: anon@anon.com
 twitter_username: glebshendrik
 github_username:  glebshendrik
